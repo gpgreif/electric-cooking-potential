@@ -1,7 +1,3 @@
-up:: [[Electric Cooking Potential]]
-tags:: #on/ds #on/epi 
-created:: [[2023-01-08]]
-
 # ECP First analysis and thoughts
 
 This is a first attempt at establishing some form of electric cooking potential index. I have taken four datasets to identify large urban populations that are (1) using primarily biomass fuels (2) have access to electricity and (3) have sufficient income to purchase and use an induction stove, potentially with government or NGO assistance.
@@ -57,8 +53,8 @@ Other observations:
 
 ## Plots
 
-![[Pasted image 20230108150848.png]]
+![[Figures/first_analysis_fig_1.png]]
 ***The estimated addressable population of the top 25 urban areas*
 
-![[Pasted image 20230108150914.png]]
+![[Figures/first_analysis_fig_2.png]]
 ***Map showing the location and addressable population size of all ~1500 urban areas***
