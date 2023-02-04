@@ -53,8 +53,8 @@ Other observations:
 
 ## Plots
 
-[](Figures/first_analysis_fig_1.png)
+![top 25 urban areas](Figures/first_analysis_fig_1.png)
 ***The estimated addressable population of the top 25 urban areas***
 
-[](Figures/first_analysis_fig_2.png)
+![urban area locations](Figures/first_analysis_fig_2.png)
 ***Map showing the location and addressable population size of all ~1500 urban areas***
